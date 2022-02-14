@@ -1,2 +1,3 @@
 # Personal-Website
-A Personal Website written in html and css languages. 
+An introductry/resume written in html and css.
+The goal here is to showcase my understanding of html and css.
